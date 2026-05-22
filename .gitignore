@@ -9,8 +9,12 @@
 *.swp
 *.swo
 
+# Local Claude Code tooling
+.claude/
+
 # Logs
 *.log
 
 # Original source file (use index.html for Pages)
 landing-page.html
+.vercel
